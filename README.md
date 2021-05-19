@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fnconfig
-- 👀 I’m interested in Full-stack Web Development, Server side programing using Node and many more
-- 🌱 I’m currently learning Pytohn, React JS and Node
+- 👀 I’m interested in Front-end Web Development, and Python Programming
+- 🌱 I’m currently learning Pytohn, React JS and a little bit of Node
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me @fnconfig on all social media platform and Email me at: fritskayadoe@gmail.com
 
